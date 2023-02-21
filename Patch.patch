@@ -1,0 +1,15 @@
+Index: lib/rebase.txt
+===================================================================
+diff --git a/lib/rebase.txt b/lib/rebase.txt
+--- a/lib/rebase.txt	(revision d3042e1906cbef82aaa05d1f2c9a8aaacf0a60cc)
++++ b/lib/rebase.txt	(revision 60b9f8c58d0e98eef9b9d6bc1db34cb9453a10c8)
+@@ -10,4 +10,6 @@
+ 
+ //commit 6
+ 
+-//commit 7
+\ No newline at end of file
++//commit 7
++
++//commit 8
+\ No newline at end of file

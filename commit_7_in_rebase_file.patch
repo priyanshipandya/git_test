@@ -1,0 +1,17 @@
+Index: lib/rebase.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lib/rebase.txt b/lib/rebase.txt
+--- a/lib/rebase.txt	(revision e3e1fe3f641303ae4631f3fea40b66c435a9b8d0)
++++ b/lib/rebase.txt	(revision 4e9fe207f610c51c38c1dda05ea8d070bb0d6614)
+@@ -4,4 +4,6 @@
+ 
+ //commit 3
+ 
+-//commit 4
+\ No newline at end of file
++//commit 4
++
++//commit 5
